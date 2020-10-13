@@ -1,16 +1,29 @@
-### Hi there 👋
+### Hi, i'm Francesco 👋
+ - Freelance.
+ - Full Stack Developer and Project Manager.
+ - Truly Passionate About How Things Work.
 
-<!--
-**abbadon1334/abbadon1334** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I write code, mainly PHP.
+The world is full of labels so I call myself Full Stack Developer and Project Manager.
+I always like to find a better way to make the offline world interact with the online world, especially when is complex and in real time.
+Facing the limits is a challenge that I set myself every day, exceeding them is more rewarding than mere monetary compensation.
 
-Here are some ideas to get you started:
+In my spare time, i contribute to the world of open source and mentor others to use best practices and avoid mistakes, i actively follow and contribute to [Agile Toolkit](https://github.com/atk4) a really exiting Low-code Framework for Web Apps in PHP.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Currently working on:
+- Monitoring of energy savings.
+- Production forecast of photovoltaic systems based on the place of installation based on historical NASA meteorological values.
+- Remote assistance via IOT mounted on hydraulic pumps.
+- Management of online / offline flows of GDO logistics
+
+### :+1: Collaborations:
+IOT - UI & Realtime communication with devices of a truly innovative low voltage LED lighting system ([2wires.it] (https://2wires.it)) which is mainly used on yachts and home automation
+
+
+<a href="https://github.com/abbadon1334/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abbadon1334&show_icons=true&line_height=27&count_private=true&theme=radical" alt="Francesco Danti's GitHub Stats" />
+</a>
+
+<a href="https://github.com/abbadon1334/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abbadon1334&show_icons=true&line_height=27&count_private=true&theme=radical&layout=compact&langs_count=6" alt="Francesco Danti's GitHub Stats" />
+</a>
