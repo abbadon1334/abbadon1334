@@ -14,7 +14,9 @@ In my spare time, I contribute to the world of open source and mentor others to 
 - Typescript
 - Redis
 - Azure
+- WebSocket
 - Blazor
+- PWA
 
 ### 🔭 Working:
 - Monitoring of energy savings.
