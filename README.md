@@ -18,11 +18,12 @@ In my spare time, I contribute to the world of open source and mentor others to 
 - Blazor
 - PWA
 
-### 🔭 Working:
-- Monitoring of energy savings.
-- Production forecast of photovoltaic systems based on the place of installation based on historical NASA meteorological values.
+### 🔭 Achievements:
+- Web Remote Control of IoT devices.
+- Web Remote Monitoring of energy savings.
 - Remote assistance via IOT mounted on hydraulic pumps.
-- Management of online/offline flows of GDO logistics
+- Production forecast of photovoltaic systems based on the place of installation based on historical NASA meteorological values.
+- Online/offline management of GDO logistics flows.
 
 ### :+1: Collaborations:
 IOT - UI & Realtime communication with devices of a truly innovative low voltage LED lighting system ([2wires.it](https://2wires.it)) which is mainly used on yachts and home automation
