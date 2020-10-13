@@ -1,12 +1,12 @@
-### Hi, i'm Francesco 👋
+### Hi, I'm Francesco 👋
  - Freelance.
  - Full Stack Developer and Project Manager.
  - Truly Passionate About How Things Work.
 
-I always like to find a better way to make the offline world interact with the online world, especially when is complex and in real time.
+I always like to find a better way to make the offline world interact with the online world, especially when is complex and in real-time.
 Facing the limits is a challenge that I set myself every day, exceeding them is more rewarding than mere monetary compensation.
 
-In my spare time, i contribute to the world of open source and mentor others to use best practices and avoid mistakes, i actively follow and contribute to [Agile Toolkit](https://github.com/atk4) a really exciting Low-code Framework for Web Apps in PHP.
+In my spare time, I contribute to the world of open source and mentor others to use best practices and avoid mistakes, I actively follow and contribute to [Agile Toolkit](https://github.com/atk4) a really exciting Low-code Framework for Web Apps in PHP.
 
 ### :book: Learning:
 - NodeJS
@@ -20,7 +20,7 @@ In my spare time, i contribute to the world of open source and mentor others to 
 - Monitoring of energy savings.
 - Production forecast of photovoltaic systems based on the place of installation based on historical NASA meteorological values.
 - Remote assistance via IOT mounted on hydraulic pumps.
-- Management of online / offline flows of GDO logistics
+- Management of online/offline flows of GDO logistics
 
 ### :+1: Collaborations:
 IOT - UI & Realtime communication with devices of a truly innovative low voltage LED lighting system ([2wires.it](https://2wires.it)) which is mainly used on yachts and home automation
