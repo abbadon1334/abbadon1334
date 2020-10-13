@@ -1,10 +1,10 @@
 ### Hi, I'm Francesco 👋
- - Freelance.
+ - Freelancer.
  - Full Stack Developer and Project Manager.
  - Truly Passionate About How Things Work.
 
-I always like to find a better way to make the offline world interact with the online world, especially when is complex and in real-time.
-Facing the limits is a challenge that I set myself every day, exceeding them is more rewarding than mere monetary compensation.
+I always like to find a better way to make the offline world interact with the online world, especially when it is complex and in real-time.
+Facing the limits is a challenge that I set for myself every day, exceeding them is more rewarding than mere monetary compensation.
 
 In my spare time, I contribute to the world of open source and mentor others to use best practices and avoid mistakes, I actively follow and contribute to [Agile Toolkit](https://github.com/atk4) a really exciting Low-code Framework for Web Apps in PHP.
 
