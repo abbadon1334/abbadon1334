@@ -26,9 +26,9 @@ In my spare time, I contribute to the world of open source and mentor others to 
 IOT - UI & Realtime communication with devices of a truly innovative low voltage LED lighting system ([2wires.it](https://2wires.it)) which is mainly used on yachts and home automation
 
 <a href="https://github.com/abbadon1334/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abbadon1334&show_icons=true&line_height=27&count_private=true&theme=radical" alt="Francesco Danti's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abbadon1334&show_icons=true&line_height=27&count_private=true" alt="Francesco Danti's GitHub Stats" />
 </a>
 
 <a href="https://github.com/abbadon1334/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abbadon1334&show_icons=true&line_height=27&count_private=true&theme=radical&langs_count=4&hide=javascript" alt="Francesco Danti's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abbadon1334&show_icons=true&line_height=27&count_private=true&langs_count=4&hide=javascript" alt="Francesco Danti's GitHub Stats" />
 </a>
