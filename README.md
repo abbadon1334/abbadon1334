@@ -25,7 +25,7 @@ In my spare time, I contribute to the world of open source and mentor others to 
 - Production forecast of photovoltaic systems based on the place of installation based on historical NASA meteorological values.
 - Online/offline management of GDO logistics flows.
 
-### :+1: Collaborations:
+### :handshake: Collaborations:
 IOT - UI & Realtime communication with devices of a truly innovative low voltage LED lighting system ([2wires.it](https://2wires.it)) which is mainly used on yachts and home automation
 
 <a href="https://github.com/abbadon1334/">
