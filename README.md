@@ -1,37 +1,31 @@
-### Hi, I'm Francesco 👋
- - Freelancer.
- - Full Stack Developer and Project Manager.
- - Truly Passionate About How Things Work.
+# Hi, I'm Francesco 👋
 
-I always like to find a better way to make the offline world interact with the online world, especially when it is complex and in real-time.
-Facing the limits is a challenge that I set for myself every day, exceeding them is more rewarding than mere monetary compensation.
+- Fractional CTO @ [ArgoTech](https://argotech.digital) & [Brandplane](https://brandplane.co) — across startup & traditional company settings
+- Tech Lead & Mentor for other companies
+- Full-Stack Developer — Laravel & AI
 
-In my spare time, I contribute to the world of open source and mentor others to use best practices and avoid mistakes, I actively follow and contribute to [Agile Toolkit](https://github.com/atk4) a really exciting Low-code Framework for Web Apps in PHP.
+I've always been driven to find better ways to connect the offline world with the online one, especially when it's complex and real-time. Today that same drive pushes me toward agentic AI and automation — building systems that don't just connect the physical and the digital, but act on their own.
 
-### :book: Learning:
-- NodeJS
-- RiotJS
-- Typescript
-- Redis
-- Azure
-- WebSocket
-- Blazor
-- PWA
+Facing limits is a challenge I set for myself every day: exceeding them is more rewarding than mere monetary compensation.
 
-### 🔭 Achievements:
-- Web Remote Control of IoT devices.
-- Web Remote Monitoring of energy savings.
-- Remote assistance via IOT mounted on hydraulic pumps.
-- Production forecast of photovoltaic systems based on the place of installation based on historical NASA meteorological values.
-- Online/offline management of GDO logistics flows.
+Alongside my two CTO roles, I actively support other companies as a Tech Lead & Mentor, helping teams adopt better practices and avoid common mistakes. I've also been a long-time open source contributor to [Agile Toolkit](https://github.com/atk4), a low-code PHP framework for web apps.
 
-### :handshake: Collaborations:
-IOT - UI & Realtime communication with devices of a truly innovative low voltage LED lighting system ([2wires.it](https://2wires.it)) which is mainly used on yachts and home automation
+### 🚀 Focus areas
 
-<a href="https://github.com/abbadon1334/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abbadon1334&show_icons=true&line_height=27&count_private=true" alt="Francesco Danti's GitHub Stats" />
-</a>
+- AI Agents & Automation
+- Real-time systems
+- Logistics
+- Laravel / PHP
 
-<a href="https://github.com/abbadon1334/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abbadon1334&show_icons=true&line_height=27&count_private=true&langs_count=4&hide=javascript" alt="Francesco Danti's GitHub Stats" />
-</a>
+### 🔭 Career highlights
+
+- Leading AI-driven automation as CTO across two companies ([ArgoTech](https://argotech.digital), [Brandplane](https://brandplane.co))
+- Web Remote Control of IoT devices
+- Web Remote Monitoring of energy savings
+- [MAC3](https://mac3.it) — remote assistance via IoT mounted on hydraulic pumps
+- Industry 4.0 integration for production lines — PLC communication via Node-RED
+- Production forecast of photovoltaic systems based on installation location, using historical NASA meteorological data
+- [Logistix](https://logistix.delivery) — online/offline logistics management of white goods (home appliances) for GDO (large-scale retail), covering all of Northern Italy and part of Central Italy
+
+[![Francesco Danti's GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=abbadon1334)](https://github.com/abbadon1334/)
+[![Francesco Danti's Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=abbadon1334&layout=donut)](https://github.com/abbadon1334/)
