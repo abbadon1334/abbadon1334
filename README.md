@@ -10,7 +10,7 @@ Facing limits is a challenge I set for myself every day: exceeding them is more 
 
 Alongside my two CTO roles, I actively support other companies as a Tech Lead & Mentor, helping teams adopt better practices and avoid common mistakes. I've also been a long-time open source contributor to [Agile Toolkit](https://github.com/atk4), a low-code PHP framework for web apps.
 
-### 🚀 Focus areas
+### 🚀 Actual focus areas
 
 - AI Agents & Automation
 - Real-time systems
