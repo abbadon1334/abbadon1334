@@ -1,6 +1,6 @@
 # Hi, I'm Francesco 👋
 
-- Fractional CTO @ [ArgoTech](https://argotech.digital) & [Brandplane](https://brandplane.co) — across startup & traditional company settings
+- CTO @ [ArgoTech](https://argotech.digital) & [Brandplane](https://brandplane.co) — across startup & traditional company settings
 - Tech Lead & Mentor for other companies
 - Full-Stack Developer — Laravel & AI
 
