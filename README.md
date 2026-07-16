@@ -27,4 +27,4 @@ Alongside my two CTO roles, I actively support other companies as a Tech Lead & 
 - Production forecast of photovoltaic systems based on installation location, using historical NASA meteorological data
 - [Logistix](https://logistix.delivery) — online/offline logistics management of white goods (home appliances) for GDO (large-scale retail), covering all of Northern Italy and part of Central Italy
 
-[![Francesco Danti's Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=abbadon1334&layout=donut&theme=dark)]
+![Francesco Danti's Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=abbadon1334&layout=donut&theme=dark)
